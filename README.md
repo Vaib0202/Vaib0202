@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Vaib0202
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 Azure Data Engineer 
 
 <!---
 Vaib0202/Vaib0202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
